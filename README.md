@@ -1,2 +1,2 @@
 # Desafio-Github
-Desafio de projeto em Git//Github. Solidificando conhecimento.
+Desafio de projeto em Git/Github. Solidificando conhecimento.
