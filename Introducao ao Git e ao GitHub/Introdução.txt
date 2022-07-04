@@ -1,0 +1,4 @@
+Git -> É um sistema de controle de versão de arquivos. Ou seja, através dele nós podemos desenvolver projetos em conjuntos com outros devs, que podem contribuir simultaneamente no mesmo projeto. Não deixando de destacar a sua forma de encriptação, fazendo que o ambiente se torne mais seguros e consequentemente mais rastreável.
+
+GitHub -> É nada mais nada menos do que uma plataforma de hospedagem de código-fonte e arquivos com controle de versão. Ou seja, Git e GitHub são totalmente diferentes, mas um complementa o outro. Onde Git é o software que será responsável por encaminhar os arquivos em seu repositório local para o servidor (GitHub), bem como introduzí-lo do servidor a sua máquina local.
+  
